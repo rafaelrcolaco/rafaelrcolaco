@@ -1,7 +1,7 @@
-<h1 align="center">Oi 👋, Eu sou o Rafael Colaço</h1>
-<h3 align="center">Sou apaixonado por desenvolvimento, em qualquer linguagem!</h3>
+<h1 align="center">Oi 👋, Eu sou o Rafael Rodegheri Colaço</h1>
+<h3 align="center">Sou apaixonado por Desenvolvimento Backend Java!</h3>
 
-- 🌱 Atualmente estou aprendendo **Java e React**
+- 🌱 Atualmente estou trabalhando com **Java e React**
 
 - 💬 Me pergunte sobre **Java, TypeScript, React**
 
